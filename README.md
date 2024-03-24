@@ -48,6 +48,29 @@
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: mada2010545@gmail.com<br/><br/>
 <!-- 💬 &emsp; Ask me about anything [here](https://github.com/Mohamed-Afifi545/Mohamed-Afifi545/issues) -->
+<br/>
+<br/>
+ # My latest deploys
+ <br/>
+
+<a href="https://omnifood-afifi.netlify.app" target="_blank">
+ Omnifood website
+ </a> <br/>
+
+<a href="https://natours-afifi.netlify.app" target="_blank">
+ Natours website
+ </a> <br/>
+
+<a href="https://game-afifi.netlify.app" target="_blank">
+ dice roll challange web application
+ </a> <br/>
+
+<a href="https://guess-afifi.netlify.app" target="_blank">
+ guess the number web application
+ </a> 
+ 
+
+
 
 </p>
 
