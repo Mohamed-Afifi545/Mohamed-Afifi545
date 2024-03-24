@@ -54,19 +54,19 @@
  <br/>
 
 <a href="https://omnifood-afifi.netlify.app" target="_blank">
- Omnifood website
+   * Omnifood website
  </a> <br/>
 
 <a href="https://natours-afifi.netlify.app" target="_blank">
- Natours website
+   * Natours website
  </a> <br/>
 
 <a href="https://game-afifi.netlify.app" target="_blank">
- dice roll challange web application
+   * dice roll challange web application
  </a> <br/>
 
 <a href="https://guess-afifi.netlify.app" target="_blank">
- guess the number web application
+   * guess the number web application
  </a> 
  
 
