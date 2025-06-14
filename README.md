@@ -21,14 +21,13 @@
 <!-- <a href="#" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="mohamed afifi website" />
  </a> -->
-  
- <a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mohamed afifi linkidin"/>
- </a> 
-
  <!--<a href="#" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="mohamed afifi twitter"/>
  </a> -->
+ 
+ <a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mohamed afifi linkidin"/>
+ </a> 
  <a href="https://www.instagram.com/m7md__afifi" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="mohamed afifi instagram" />
  </a> 
